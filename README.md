@@ -1,6 +1,10 @@
 # README #
 # Learning Git
 
+## Table of Contents
+
+- example.txt
+
 Important steps for git workflow:
 
 1. Initialilze repo with ```git intit```
