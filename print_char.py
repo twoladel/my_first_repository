@@ -1,4 +1,3 @@
 word = input()
-for i in range(0, len(word)):
-    char = word[i]
+for char in word:
     print(char)
